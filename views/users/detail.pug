@@ -1,0 +1,9 @@
+doctype html
+html
+  head
+    title #{user.name}
+    link(rel="stylesheet", href="/css/styles.css")
+  body
+    h1 #{user.name}
+    p ID: #{user.id}
+    a(href="/users") Back to Users List

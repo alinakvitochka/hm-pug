@@ -1,0 +1,13 @@
+{
+  "name": "hm-pug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "espress": "^0.0.0",
+    "express": "^5.1.0",
+    "node": "^18.20.8",
+    "pug": "^3.0.3"
+  }
+}
