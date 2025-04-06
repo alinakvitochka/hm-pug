@@ -33,4 +33,9 @@
 1. Клонуйте репозиторій:
 
    ```bash
-   git clone
+   git clone https://github.com/alinakvitochka/hm-pug
+   cd hm-pug
+2.Встановіть залежності:npm install
+3.Запустіть сервер:npm start
+Сервер буде працювати на http://localhost:3000
+
